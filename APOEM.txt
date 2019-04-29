@@ -8,4 +8,5 @@ Yellow
 Black
 Magenta
 Pink
+White
 
