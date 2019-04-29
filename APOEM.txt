@@ -4,3 +4,8 @@ Red
 Green
 Blue
 these are rgb color.
+Yellow
+Black
+Magenta
+Pink
+
